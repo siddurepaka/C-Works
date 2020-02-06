@@ -1,0 +1,6 @@
+E:\C#\DemoParam\bin\Debug\DemoParam.exe.config
+E:\C#\DemoParam\bin\Debug\DemoParam.exe
+E:\C#\DemoParam\bin\Debug\DemoParam.pdb
+E:\C#\DemoParam\obj\Debug\DemoParam.csprojAssemblyReference.cache
+E:\C#\DemoParam\obj\Debug\DemoParam.exe
+E:\C#\DemoParam\obj\Debug\DemoParam.pdb

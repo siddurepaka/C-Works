@@ -1,0 +1,6 @@
+E:\C#\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+E:\C#\Conversion\bin\Debug\Conversion.exe.config
+E:\C#\Conversion\bin\Debug\Conversion.exe
+E:\C#\Conversion\bin\Debug\Conversion.pdb
+E:\C#\Conversion\obj\Debug\Conversion.exe
+E:\C#\Conversion\obj\Debug\Conversion.pdb

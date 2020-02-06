@@ -1,0 +1,6 @@
+E:\C#\DemoEXception\obj\Debug\DemoEXception.csprojAssemblyReference.cache
+E:\C#\DemoEXception\bin\Debug\DemoEXception.exe.config
+E:\C#\DemoEXception\bin\Debug\DemoEXception.exe
+E:\C#\DemoEXception\bin\Debug\DemoEXception.pdb
+E:\C#\DemoEXception\obj\Debug\DemoEXception.exe
+E:\C#\DemoEXception\obj\Debug\DemoEXception.pdb

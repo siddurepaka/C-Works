@@ -1,0 +1,6 @@
+E:\C#\DemoOops\obj\Debug\DemoOops.csprojAssemblyReference.cache
+E:\C#\DemoOops\bin\Debug\DemoOops.exe.config
+E:\C#\DemoOops\bin\Debug\DemoOops.exe
+E:\C#\DemoOops\bin\Debug\DemoOops.pdb
+E:\C#\DemoOops\obj\Debug\DemoOops.exe
+E:\C#\DemoOops\obj\Debug\DemoOops.pdb

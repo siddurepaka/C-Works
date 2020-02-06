@@ -1,0 +1,6 @@
+E:\C#\DemoMethod\bin\Debug\DemoMethod.exe.config
+E:\C#\DemoMethod\bin\Debug\DemoMethod.exe
+E:\C#\DemoMethod\bin\Debug\DemoMethod.pdb
+E:\C#\DemoMethod\obj\Debug\DemoMethod.csprojAssemblyReference.cache
+E:\C#\DemoMethod\obj\Debug\DemoMethod.exe
+E:\C#\DemoMethod\obj\Debug\DemoMethod.pdb

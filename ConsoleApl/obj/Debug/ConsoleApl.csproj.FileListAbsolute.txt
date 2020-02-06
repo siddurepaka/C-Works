@@ -1,0 +1,6 @@
+E:\C#\ConsoleApl\bin\Debug\ConsoleApl.exe.config
+E:\C#\ConsoleApl\bin\Debug\ConsoleApl.exe
+E:\C#\ConsoleApl\bin\Debug\ConsoleApl.pdb
+E:\C#\ConsoleApl\obj\Debug\ConsoleApl.csprojAssemblyReference.cache
+E:\C#\ConsoleApl\obj\Debug\ConsoleApl.exe
+E:\C#\ConsoleApl\obj\Debug\ConsoleApl.pdb

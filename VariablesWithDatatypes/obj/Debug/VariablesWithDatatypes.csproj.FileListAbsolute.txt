@@ -1,0 +1,6 @@
+E:\C#\VariablesWithDatatypes\bin\Debug\VariablesWithDatatypes.exe.config
+E:\C#\VariablesWithDatatypes\bin\Debug\VariablesWithDatatypes.exe
+E:\C#\VariablesWithDatatypes\bin\Debug\VariablesWithDatatypes.pdb
+E:\C#\VariablesWithDatatypes\obj\Debug\VariablesWithDatatypes.csprojAssemblyReference.cache
+E:\C#\VariablesWithDatatypes\obj\Debug\VariablesWithDatatypes.exe
+E:\C#\VariablesWithDatatypes\obj\Debug\VariablesWithDatatypes.pdb

@@ -1,0 +1,6 @@
+E:\C#\DeliveryDetails\bin\Debug\DeliveryDetails.exe.config
+E:\C#\DeliveryDetails\bin\Debug\DeliveryDetails.exe
+E:\C#\DeliveryDetails\bin\Debug\DeliveryDetails.pdb
+E:\C#\DeliveryDetails\obj\Debug\DeliveryDetails.csprojAssemblyReference.cache
+E:\C#\DeliveryDetails\obj\Debug\DeliveryDetails.exe
+E:\C#\DeliveryDetails\obj\Debug\DeliveryDetails.pdb

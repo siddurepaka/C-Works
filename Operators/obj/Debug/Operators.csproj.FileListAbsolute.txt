@@ -1,0 +1,6 @@
+E:\C#\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+E:\C#\Operators\bin\Debug\Operators.exe.config
+E:\C#\Operators\bin\Debug\Operators.exe
+E:\C#\Operators\bin\Debug\Operators.pdb
+E:\C#\Operators\obj\Debug\Operators.exe
+E:\C#\Operators\obj\Debug\Operators.pdb
